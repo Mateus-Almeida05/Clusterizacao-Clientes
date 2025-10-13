@@ -23,9 +23,9 @@ Além disso, foi necessário definir o número ideal de clusters para representa
 
 **4\. Estrutura do projeto**
 
-A estrutura do projeto foi organizada de acordo com o framework CRISP-DM (Cross Industry Standard Process for Data Mining), amplamente utilizado em projetos de ciência de dados. Dessa forma, a resolução do problema segue uma sequência de etapas bem definidas. Inicialmente, realizou-se a exploração dos dados, com o intuito de compreender a base disponível, identificar padrões e possíveis inconsistências. Em seguida, foi feita a preparação dos dados, aplicando os ajustes necessários para tornar o conjunto adequado ao treinamento dos modelos.
-
-Na etapa seguinte ocorreu a construção do modelo, em que técnicas de clusterização, com destaque para o algoritmo K-Means, foram aplicadas para segmentar os clientes em grupos de interesse. Posteriormente, realizou-se a avaliação dos resultados, utilizando métricas e análises visuais, como o Elbow Graph e a Silhouette Analysis, para validar a quantidade de clusters mais apropriada e a qualidade da segmentação obtida. Por fim, a fase de deploy e conclusão concentrou-se na interpretação dos perfis de clientes gerados, bem como na definição de recomendações práticas que podem apoiar estratégias de marketing e tomada de decisão no negócio.
+├── Dados/                            # Pasta com os conjuntos de dados 
+├── Clusterização_de_Clientes.ipynb/   # Etapa de modelagem e avaliação dos modelos de machine learning
+├── Readme/                               # Explicação do projeto
 
 **5\. Tecnologias Utilizadas** 
 
