@@ -1,3 +1,5 @@
+<img width="827" height="469" alt="image" src="https://github.com/user-attachments/assets/1f11b5f2-34a7-436d-9e7f-9f501fdda951" />
+
 # **Customer Clustering**
 
 ## **1\. Introduction**
