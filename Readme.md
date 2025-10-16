@@ -37,8 +37,7 @@ As principais tecnologias utilizadas foram:
 
 * Numpy → utilizado para cálculos numéricos, operações vetoriais e matriciais de forma eficiente.
 
-* Matplotlib / Pyplot → empregados na criação de gráficos básicos e personalizáveis   
-* para análise de dados.
+* Matplotlib / Pyplot → empregados na criação de gráficos básicos e personalizáveis   para análise de dados.
 
 * Seaborn → usado para visualizações estatísticas mais elaboradas e intuitivas, facilitando a interpretação.
 
