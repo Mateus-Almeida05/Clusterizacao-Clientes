@@ -23,8 +23,10 @@ Além disso, foi necessário definir o número ideal de clusters para representa
 
 **4\. Estrutura do projeto**
 
-├── Dados/                            # Pasta com os conjuntos de dados 
+├── Dados/                            # Pasta com os conjuntos de dados
+
 ├── Clusterização_de_Clientes.ipynb/   # Etapa de modelagem e avaliação dos modelos de machine learning
+
 ├── Readme/                               # Explicação do projeto
 
 **5\. Tecnologias Utilizadas** 
